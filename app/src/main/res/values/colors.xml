@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="white">#ffffff</color>
+    <color name="oper_text_color">#1db7bd</color>
+    <color name="equl_text_color">#ffffff</color>
+    <color name="main_backg_color">#ffffff</color>
+    <color name="input_backg_color">#ffffff</color>
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="black">#000000</color>
+
+</resources>

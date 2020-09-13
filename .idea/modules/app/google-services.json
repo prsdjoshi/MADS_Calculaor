@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4768569887",
+    "firebase_url": "https://calcdemio.firebaseio.com",
+    "project_id": "calcdemio",
+    "storage_bucket": "calcdemio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4768569887:android:1a2bb5fad5104c017fd32a",
+        "android_client_info": {
+          "package_name": "com.example.calcmads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4768569887-4o0avpdqsr6nc644l2jgmub0k0vjntmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calcmads",
+            "certificate_hash": "991835403ee6d41dd7b790df27fa3e4e8d0666df"
+          }
+        },
+        {
+          "client_id": "4768569887-ke9f2eohfkqjo1783lckvjnldj4n6m00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65h39leLGxoooXt-AQZ-pbSJ-PQscRKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4768569887-ke9f2eohfkqjo1783lckvjnldj4n6m00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

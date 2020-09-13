@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252015874429",
+    "firebase_url": "https://calcmads.firebaseio.com",
+    "project_id": "calcmads",
+    "storage_bucket": "calcmads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252015874429:android:1dc4e49b7f85ab9384bc14",
+        "android_client_info": {
+          "package_name": "com.example.calcmads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252015874429-v56emgvbse9lmo3hhvil2bc3uiu19p3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumzU-AEGSb6z0Ju-lWfRYGKoNmbl20g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252015874429-v56emgvbse9lmo3hhvil2bc3uiu19p3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
